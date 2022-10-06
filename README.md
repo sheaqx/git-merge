@@ -1,4 +1,4 @@
-# git-merge
+REMOTE
 
 This repo is to learn about merge and conflit
 
